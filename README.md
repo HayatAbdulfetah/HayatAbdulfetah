@@ -43,14 +43,6 @@ Collaborated in a team project to develop a secure and transparent blockchain-ba
 
 ## 📊 GitHub Stats
 
-![Hayat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayatAbdulfetah&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayatAbdulfetah&layout=compact)
-
----
-
-📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HayatAbdulfetah&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>  
