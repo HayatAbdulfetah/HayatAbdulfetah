@@ -9,7 +9,7 @@
 Software Engineering student interested in frontend and backend development. I enjoy building web applications, solving problems, and learning new technologies through hands-on projects.
 
 ## 🚀 Tech Stack
-
+<p align="left">
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -18,20 +18,20 @@ Software Engineering student interested in frontend and backend development. I e
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HayatAbdulfetah&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=HayatAbdulfetah&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>  
 
 #🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=HayatAbdulfetah&theme=radical&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" /></p>
   <img src="https://streak-stats.vercel.app?user=HayatAbdulfetah&theme=github-dark" />
+</p>
+  
 
 
 ## 🤝 Connect With Me
