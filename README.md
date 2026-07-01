@@ -23,9 +23,9 @@ Software Engineering student interested in frontend and backend development. I e
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HayatAbdulfetah&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>  
+</p> -->
 <br>
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=HayatAbdulfetah&theme=github-dark" />
