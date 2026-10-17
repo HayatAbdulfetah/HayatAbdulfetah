@@ -1,40 +1,50 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there! 👋 I'm Hayat Abdulfetah</h1>
-<h3 align="center">🎓 Software Engineering Student | 💻 Full-Stack Development Enthusiast | 🌍 Based in Ethiopia</h3>
+# Hey there! 👋 I'm Hayat Abdulfetah
+
+🎓 Software Engineering Student | 💻 Full-Stack Web Developer | 🌍 Ethiopia
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&width=700&lines=Hi+I%27m+Hayat+Abdulfetah!;Problem+Solver;Software+Engineering+Student!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Development+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
-Software Engineering student interested in frontend and backend development. I enjoy building web applications, solving problems, and learning new technologies through hands-on projects.
+## 💫 About Me
 
-## 🚀 Tech Stack
+I'm a fourth-year Software Engineering student interested in frontend and backend development. I enjoy building web applications, solving problems, and turning ideas into practical projects while continuously improving my technical skills.
+
+- 🌱 Currently learning and improving my full-stack development skills.
+- 💻 Interested in creating useful, responsive, and user-friendly web applications.
+- 🧠 Practicing Data Structures and Algorithms to strengthen my problem-solving skills.
+- 🚀 Looking forward to collaborating on projects and growing as a software engineer.
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HayatAbdulfetah&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p> -->
-<br>
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=HayatAbdulfetah&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HayatAbdulfetah&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayatAbdulfetah&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
-  
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HayatAbdulfetah&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/hayat-abdulfetah-598b9a348/
-- Email: hayatabdulfetah7@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/hayat-abdulfetah-598b9a348/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hayatabdulfetah7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
+---
+
+<p align="center">
+  💙 Thanks for visiting my profile!
+</p>
