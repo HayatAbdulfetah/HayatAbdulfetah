@@ -3,7 +3,7 @@
 🎓 Software Engineering Student | 💻 Full-Stack Web Developer | 🌍 Ethiopia
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Development+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Development+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me
