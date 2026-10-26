@@ -45,6 +45,6 @@ I'm a fourth-year Software Engineering student interested in frontend and backen
 
 ---
 
-<p align="center">
+<p align="left">
   💙 Thanks for visiting my profile!
 </p>
