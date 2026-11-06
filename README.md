@@ -1,19 +1,19 @@
 # Hey there! 👋 I'm Hayat Abdulfetah
 
-🎓 Software Engineering Student | 💻 Full-Stack Web Developer | 🌍 Ethiopia
+🎓 Fourth-Year Software Engineering Student | 💻 Full-Stack Developer | 🌍 Based in Ethiopia
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Development+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me
 
-I'm a fourth-year Software Engineering student interested in frontend and backend development. I enjoy building web applications, solving problems, and turning ideas into practical projects while continuously improving my technical skills.
+I'm a fourth-year Software Engineering student interested in building web applications and exploring both frontend and backend development. I enjoy solving problems, bringing ideas to life through code, and learning new technologies by working on real-world projects.
 
-- 🌱 Currently learning and improving my full-stack development skills.
-- 💻 Interested in creating useful, responsive, and user-friendly web applications.
-- 🧠 Practicing Data Structures and Algorithms to strengthen my problem-solving skills.
-- 🚀 Looking forward to collaborating on projects and growing as a software engineer.
+- 🌱 Continuously improving my full-stack development skills.
+- 💻 Building responsive and user-friendly web applications.
+- 🧠 Strengthening my problem-solving skills through Data Structures and Algorithms.
+- 🚀 Open to collaboration, learning opportunities, and software engineering internships.
 
 ## 🛠️ Tech Stack
 
